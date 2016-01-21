@@ -1,4 +1,4 @@
-print("Svemir")
+print("NISAM KRIV")
 print("NE NE")
 
 for i in range(20):
